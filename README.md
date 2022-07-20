@@ -38,3 +38,7 @@ GET http://localhost:8080/users/
 
 Finally, Redis is one of the many officially supported cache solution by Spring Boot. Try the rest and chose the one
 that fits best for you.
+
+Medium Link
+
+https://medium.com/@souravpujara_18425/redis-and-redis-notifications-with-spring-boot-d5517181ac3a
