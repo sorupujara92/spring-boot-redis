@@ -42,3 +42,5 @@ that fits best for you.
 Medium Link
 
 https://medium.com/@souravpujara_18425/redis-and-redis-notifications-with-spring-boot-d5517181ac3a
+
+https://medium.com/@souravpujara_18425/redis-read-data-post-ttl-and-handle-concurrency-e75b854b3832
